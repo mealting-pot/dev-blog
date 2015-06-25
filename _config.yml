@@ -1,22 +1,23 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Mealting Pot project developer blog
+description: Blogging about the evolution of the Mealting Pot project
+meta_description: "Mealting Pot Developer blog"
 
 aboutPage: true
 
 markdown: redcarpet
 highlighter: pygments
+github: [Repository metadata]
 
 paginate: 20
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
+baseurl: /dev-blog
+domain_name: 'https://mealting-pot.github.io/dev-blog'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'https://mealting-pot.github.io/dev-blog'
+author:         'Mealting Pot'
+authorTwitter:  ''
 
 permalink:       /:year/:title/
 
