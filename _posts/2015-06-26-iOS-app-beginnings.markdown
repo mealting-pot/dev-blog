@@ -1,5 +1,5 @@
 ---
-title:  "iOS app begginings"
+title:  "iOS app beginnings"
 date:   2015-06-26 20:00:00
 description: iOS App creation
 ---
